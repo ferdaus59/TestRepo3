@@ -4,5 +4,6 @@ public class SecondJava {
 	{
 		System.out.println("Hello World");
 		System.out.println("Hello Tennessee");
+		System.out.println("Hello ETSU");
 	}
 }
